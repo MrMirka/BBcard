@@ -14,8 +14,8 @@ import {generateStars} from './stars/Stars';
 import {RoundedCubeGeometry, RoundedPlaneGeometry} from './Rounded';
 
 import modelSource from './models/model.glb';
-import modelMapSource from './models/map.jpg';
-import modelNormalMapSource from './models/normal.jpg';
+import modelMapSource from './models/albedo.jpg';
+import modelNormalMapSource from './models/normals.jpg';
 import flashSource from './flash/flash.png';
 import cardBackSource from './models/card.jpg';
 import {getFlash} from './flash/flash';
