@@ -152,6 +152,7 @@ export class CardBoxInstance {
     tl.add(() => {
       this._changeState(2)
     })
+    
   }
   private _animateDragEnd() {
     if (this._state >= 3) return;
