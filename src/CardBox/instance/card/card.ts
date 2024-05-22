@@ -10,7 +10,7 @@ const getRoundedPlane = (width: number, height: number, radius: number, z: numbe
     material.map.offset.x = -(height / width - 1) / 2;
   }
   const mesh = new Mesh(plane, material);
-  mesh.position.set(-height / 2, -height / 2, z);
+  mesh.position.set(-height / 2, -height / 2 + 35, z);
   mesh.scale.setScalar(height);
 
   return mesh;
@@ -18,16 +18,18 @@ const getRoundedPlane = (width: number, height: number, radius: number, z: numbe
 
 export const getCard = (backMap: Texture, frontMap: Texture) => {
   const w = 212;
-  const h = 342;
+  const h = 280;
   const r = 12;
   const d = 5;
   const b = 4;
 
   const geometry = new RoundedCubeGeometry(w, h, d, r, 0, 4);
   const material = new MeshPhongMaterial({
-    color: '#FF4560'
+    //color: '#FF4560'
+    color: '#DADCDB'
   });
   const mesh = new Mesh(geometry, material);
+  mesh.position.y = 35
 
   const backMaterial = new MeshPhongMaterial({
     map: backMap,

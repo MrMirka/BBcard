@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e26bbb55.css",
-    "main.js": "/static/js/main.4f64c33a.js",
-    "static/media/card.png": "/static/media/card.1d005d61c9284f0831c3.png",
-    "static/media/card_1.png": "/static/media/card_1.44e4ba4c053525391ad8.png",
-    "static/media/flash.png": "/static/media/flash.de9c10a517e67d401c76.png",
-    "static/media/normal.jpg": "/static/media/normal.23d39b7c84ba18df1027.jpg",
-    "static/media/model.glb": "/static/media/model.71cd8ac3f2e3db4231e5.glb",
-    "static/media/map.jpg": "/static/media/map.98fd87ade6c1f4baca7e.jpg",
-    "static/media/bg.jpg": "/static/media/bg.54457f76c28905a17db1.jpg",
-    "static/media/card.jpg": "/static/media/card.d6bdf45509a3608dd8a7.jpg",
-    "static/media/hand.svg": "/static/media/hand.c9d79e1f18c09a511bad.svg",
-    "index.html": "/index.html",
-    "main.e26bbb55.css.map": "/static/css/main.e26bbb55.css.map",
-    "main.4f64c33a.js.map": "/static/js/main.4f64c33a.js.map"
+    "main.css": "/bbanimcard/static/css/main.cac496bd.css",
+    "main.js": "/bbanimcard/static/js/main.3061a911.js",
+    "static/media/card.png": "/bbanimcard/static/media/card.1d005d61c9284f0831c3.png",
+    "static/media/card_1.png": "/bbanimcard/static/media/card_1.44e4ba4c053525391ad8.png",
+    "static/media/normals.jpg": "/bbanimcard/static/media/normals.f38908473865b61ed255.jpg",
+    "static/media/flash.png": "/bbanimcard/static/media/flash.de9c10a517e67d401c76.png",
+    "static/media/model.glb": "/bbanimcard/static/media/model.71cd8ac3f2e3db4231e5.glb",
+    "static/media/albedo.jpg": "/bbanimcard/static/media/albedo.ebb3c86bb8e9394eb0c2.jpg",
+    "static/media/card.jpg": "/bbanimcard/static/media/card.ff431e611f9305b7c1c3.jpg",
+    "static/media/bg.jpg": "/bbanimcard/static/media/bg.54457f76c28905a17db1.jpg",
+    "static/media/hand.svg": "/bbanimcard/static/media/hand.c9d79e1f18c09a511bad.svg",
+    "index.html": "/bbanimcard/index.html",
+    "main.cac496bd.css.map": "/bbanimcard/static/css/main.cac496bd.css.map",
+    "main.3061a911.js.map": "/bbanimcard/static/js/main.3061a911.js.map"
   },
   "entrypoints": [
-    "static/css/main.e26bbb55.css",
-    "static/js/main.4f64c33a.js"
+    "static/css/main.cac496bd.css",
+    "static/js/main.3061a911.js"
   ]
 }
