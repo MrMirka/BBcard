@@ -217,7 +217,7 @@ export class CardBoxInstance {
       ease: "power4.inOut"
     }, 0.4);
     tl.to(this._card!.animation.position, {
-      y: 0.1,
+      y: -0.08,
       duration: 1,
       overwrite: true,
       ease: "power4.inOut"

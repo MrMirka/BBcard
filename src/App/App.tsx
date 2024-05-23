@@ -4,7 +4,18 @@ import {CardBox} from '../CardBox/CardBox';
 import {CardInstanceState} from '../CardBox/instance/CardBoxInstance';
 import {TestScreen} from '../TestScreen/TestScreen';
 
-const cards = ['./card-0.jpg', './card-1.jpg', './card-0.jpg', './card-1.jpg'];
+const cards = ['./card-0.jpg',
+               './card-1.jpg',
+               './card-2.jpg',
+               './card-3.jpg',
+               './card-4.jpg',
+               './card-5.jpg',
+               './card-6.jpg',
+               './card-7.jpg',
+               './card-8.jpg',
+               './card-9.jpg',
+               './card-10.jpg',
+              ];
 
 function App() {
   const [visible, setVisible] = useState(true);
