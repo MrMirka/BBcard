@@ -21,7 +21,7 @@ export const getCard = (backMap: Texture, frontMap: Texture) => {
   const h = 280;
   const r = 12;
   const d = 5;
-  const b = 4;
+  const b = 0;
 
   const geometry = new RoundedCubeGeometry(w, h, d, r, 0, 4);
   const material = new MeshPhongMaterial({
