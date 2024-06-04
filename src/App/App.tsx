@@ -4,7 +4,7 @@ import {CardBox} from '../CardBox/CardBox';
 import {CardInstanceState} from '../CardBox/instance/CardBoxInstance';
 import {TestScreen} from '../TestScreen/TestScreen';
 
-const cards = ['./card-0.jpg',
+const cards = [ './card-0.jpg',
                './card-1.jpg',
                './card-2.jpg',
                './card-3.jpg',
@@ -14,7 +14,18 @@ const cards = ['./card-0.jpg',
                './card-7.jpg',
                './card-8.jpg',
                './card-9.jpg',
-               './card-10.jpg',
+               './card-10.jpg', 
+               './card-11.jpg',
+               './card-12.jpg',
+               './card-13.jpg',
+               './card-14.jpg',
+               './card-15.jpg',
+               './card-16.jpg',
+               './card-17.jpg',
+               './card-18.jpg',
+               './card-19.jpg',
+               './card-20.jpg',
+
               ];
 
 function App() {
