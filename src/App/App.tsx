@@ -25,6 +25,16 @@ const cards = [ './card-0.jpg',
                './card-18.jpg',
                './card-19.jpg',
                './card-20.jpg',
+               './card-21.jpg', 
+               './card-22.jpg',
+               './card-23.jpg',
+               './card-24.jpg',
+               './card-25.jpg',
+               './card-26.jpg',
+               './card-27.jpg',
+               './card-28.jpg',
+               './card-29.jpg',
+        
 
               ];
 
